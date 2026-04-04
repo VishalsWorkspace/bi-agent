@@ -60,7 +60,7 @@ MONDAY_API_KEY=your_key_here
 
 ## 🌐 Live Demo
 
-👉 [Your Streamlit Link Here]
+👉 https://bi-agent-assignment.streamlit.app/
 
 ---
 
